@@ -1,9 +1,9 @@
-## Simple flask app with docker and AWS
+## Simple docker flask app on AWS
 
 ### Docker URL
 
 * https://hub.docker.com/r/ihorsliusar/catnip/
 
-### Amazon url
+### Amazon URL
 
-* Sample-env.bauv2mstqc.us-east-2.elasticbeanstalk.com
+* https://sample-env.bauv2mstqc.us-east-2.elasticbeanstalk.com
